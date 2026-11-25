@@ -17,6 +17,8 @@ venezuela-water-collection-4/
     └── water-bodies/
 ```
 
+<img src="./water.webp" alt="Map of surface water in Venezuela from MapBiomas Water Collection 4" width="100%">
+
 ## Methodological Steps
 
 ### Glacier
